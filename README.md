@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jollaholisti
-- 👀 I’m interested in designing icons to Bodhi Linux.
-- 🌱 I’m currently learning to use GitHub & creating repositories.
-- 💞️ I’m looking to collaborate on Bodhi Linux theme designing / finnish translating.
+- 👋 Hi, I’m @Jollaholisti aka Janne Tamming
+- 👀 I’m interested in designing icons to Bodhi Linux distribution.
+- 🌱 I’m currently learning to use GitHub, creating repositories and pulling requests.
+- 💞️ I’m looking to collaborate on Bodhi Linux theme designing & language translating - finnish.
 - 📫 How to reach me - email: janne.tamming@protonmail.com
 
 <!---
